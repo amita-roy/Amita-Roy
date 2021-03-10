@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="./images/Professional-banner.png" alt="header"><br><br>
+<img src="./images/banner.png" alt="header"><br><br>
 
 <h3>Job Interest</h3>
 

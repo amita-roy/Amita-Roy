@@ -71,8 +71,3 @@
     Microverse: 'Full-time School'
     };
 ```
-
-<p align="left">
-  You are visitor number: <br>
-  <img src="https://profile-counter.glitch.me/Amita-Roy/count.svg" />
-</p>

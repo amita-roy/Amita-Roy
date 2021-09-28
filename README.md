@@ -1,5 +1,5 @@
 <h1> Hi, I'm Amita Roy! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
-<p><em>A Frontend web developer ready for adventure</em></p>
+<p><em>A Full-Stack  web developer ready for adventure</em></p>
 
 <p>You can check out my portfolio <a href="https://amitaroy.com/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p><br>
 

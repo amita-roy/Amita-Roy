@@ -11,7 +11,7 @@
 </p> <br>
 
 - 🖥 Available for new job opportunities.
-- 🌱 I’m currently extending my skillset in React & Redux
+- 🌱 I’m currently working on React, Typescript and Nodejs
 - 📫 How to reach me: amita.roy@workmail.com
 - 😄 Pronouns: She/Her
 
@@ -43,7 +43,7 @@
 **Who said I don't test my code?? Here are the techs I use for testing:**
 
 ```
-  const tests = ['RSpec', 'Capybara', 'Jest'];
+  const tests = ['Jest', 'React Testing Library', 'Chai', 'RSpec', 'Capybara'];
 ```
 
 **I use Linters? Sure. Check this out:**
@@ -59,7 +59,7 @@
 **The tools I use? Here they are:**
 
 ```
-  const tools = ['Git', 'GitHub', 'VSCode', 'Heroku', 'Netlify', 'DevTools', 'Adobe XD'];
+  const tools = ['Git', 'Gitlab', 'GitHub', 'VSCode', 'Heroku', 'Netlify', 'DevTools', 'Figma'];
 ```
 
 **How did I learn coding?? Well, this is the story:**

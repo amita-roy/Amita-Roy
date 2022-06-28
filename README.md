@@ -37,7 +37,7 @@
 **And if you're wondering what are the technologies I use:**
 
 ```
-  const stack = ['Ruby', 'Ruby on Rails', 'JavaScript', 'ReactJS', 'Redux', 'Bootstrap', 'Material UI'];
+  const stack = ['JavaScript', 'ReactJS', 'TypeScript', 'Nodejs', 'Redux', 'Ruby', 'Ruby on Rails'];
 ```
 
 **Who said I don't test my code?? Here are the techs I use for testing:**
